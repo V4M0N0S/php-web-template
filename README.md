@@ -28,7 +28,7 @@ Dont forget to edit "description" & "keywords" at the index.php
 
 🟡 Update to bootstrap 5
 
-🟡 integrade some example sites
+🟡 integrate some example sites
 
 🟡 build an automated theme changer
 
