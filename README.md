@@ -8,7 +8,7 @@ This is a small & simple "framework" to build a website in PHP.
 
 ```bash
 Used bootstrap 4 / If you want change theme replace 
-"/server/style.css" with some from (https://bootswatch.com/)
+"/server/style.css" with some from (https://bootswatch.com/4/)
 
 The meta image has to placed under "server/images/og-image.png" 
 If you want change this path take a look at "source.php"
