@@ -3,7 +3,7 @@ This is a small & simple "framework" to build a website in PHP.
 
 ## Current features
 <p align="justify">
-  Written in PHP and easy to extend. Just copy index.php to a new file and rename it. So you can fast and easy a simple website with PHP in frontend, and bootstrap 4 as CSS framework. It contains Google Analytics, Facebook SDK and a cookie accept police. Some updates comming soon.
+  Written in PHP and easy to extend. Just copy index.php to a new file and rename it. So you can fast and easy deploy a simple website with PHP in frontend, and bootstrap 4 as CSS framework. It contains Google Analytics, Facebook SDK and a cookie accept police. Some updates comming soon.
 </p>
 
 ```bash
