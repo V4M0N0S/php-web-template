@@ -1,7 +1,7 @@
 # Simple PHP Website Template
 This is a small & simple "framework" to build a website in PHP.
 
-## Current projekt status
+## Current project status
 🔸 This project has been discontinued.
 
 ## Current / last integrated features
