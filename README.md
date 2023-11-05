@@ -1,7 +1,10 @@
 # Simple PHP Website Template
 This is a small & simple "framework" to build a website in PHP.
 
-## Current features
+## Current projekt status
+🔸 This project has been discontinued.
+
+## Current / last integrated features
 <p align="justify">
   Written in PHP and easy to extend. Just copy index.php to a new file and rename it. So you can fast and easy deploy a simple website with PHP in frontend, and bootstrap 4 as CSS framework. It contains Google Analytics, Facebook SDK and a cookie accept police. Some updates comming soon.
 </p>
@@ -35,7 +38,7 @@ Dont forget to edit "description" & "keywords" at the index.php
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact me
-☎️ Open an issue or contact me via Discord: V4M0N0S#0001
+☎️ Open an issue or contact me via mail: vamonos@posteo.me or Discord: vamonos.me
 
 ## License
 👍 [MIT](https://choosealicense.com/licenses/mit/) - Feel free to share, work with it or clone to your own repository!
