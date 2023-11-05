@@ -24,14 +24,6 @@ Dont forget to edit "description" & "keywords" at the index.php
 
 🖥 Webserver with PHP | Just edit the files and upload to your server
 
-## Upcomming features
-🟡 Update to bootstrap 5
-
-🟡 integrate some example sites
-
-🟡 build an automated theme changer
-
-
 ## Contributing
 🔥 Pull requests are welcome. 
 
